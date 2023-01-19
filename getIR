@@ -1,0 +1,5 @@
+curl https://raw.githubusercontent.com/Vilgax-10/Stuff/main/IR/BitwiseOperation.java -o BitwiseOperation.java
+curl https://raw.githubusercontent.com/Vilgax-10/Stuff/main/IR/EditDistanceStrings.java -o EditDistanceStrings.java
+curl https://raw.githubusercontent.com/Vilgax-10/Stuff/main/IR/PageRank.java -o PageRank.java
+curl https://raw.githubusercontent.com/Vilgax-10/Stuff/main/IR/preProcessingStopWords.py -o preProcessingStopWords.py
+curl https://raw.githubusercontent.com/Vilgax-10/Stuff/main/IR/tkaddtwonumbers.py -o tkaddtwonumbers.py
